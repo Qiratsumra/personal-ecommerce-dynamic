@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import { CartProvider } from "./components/context/page";
+import { CartProvider } from "./components/context/CardContext";
 import Header from "./components/Header";
 
 const geistSans = localFont({

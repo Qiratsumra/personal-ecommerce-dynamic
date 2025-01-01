@@ -19,7 +19,7 @@ import el2 from "../../../../public/el2.png"
 import el3 from '../../../../public/el3.png'
 
 import { useContext, useState } from 'react';
-import { createCartContext } from '../../components/context/page';
+import { createCartContext } from '../../components/context/CardContext';
 import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
 
 

@@ -1,7 +1,7 @@
 import { useContext } from "react"
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTrigger, } from "@/components/ui/sheet"
 import { FiShoppingBag } from 'react-icons/fi'
-import { createCartContext } from './context/page'
+import { createCartContext } from './context/CardContext'
 
 import Image from "next/image"
 
